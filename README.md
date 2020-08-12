@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I like wathcing Movies and listening to music
 
 ## Personal Projects 
-- 📦 [rekeep](https://github.com/tuxrace/react-rekeep-app) a state management using react hooks and context
-- 👟 [rdash](https://github.com/tuxrace/rdash) a recreational lodash
+- 📦 [rekeep](https://github.com/tuxrace/react-rekeep-app) - a state management using react hooks and context.
+- 👟 [rdash](https://github.com/tuxrace/rdash) - a recreational lodash.
