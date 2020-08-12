@@ -1,4 +1,4 @@
-### About me 👋
+## About me 👋
 
 - 🔭 I’m currently working on javascript mainly with react.
 - 🌱 I’m currently learning golang
