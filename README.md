@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I like wathcing Movies and listening to music
 
 ## Personal Projects 
-- rekeep a state management using react hookes and context
+- rekeep a state management using react hooks and context
 - rdash a recreational lodash
