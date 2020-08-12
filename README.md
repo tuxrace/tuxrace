@@ -6,7 +6,6 @@
 - 😄 Im highly motivated developer always looking out to make things better.
 - ⚡ Fun fact: I like wathcing Movies and listening to music
 
-## rekeep 
-> state management using react hooks
-
-
+## Personal Projects 
+- rekeep a state management using react hookes and context
+- rdash a recreational lodash
