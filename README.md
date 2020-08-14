@@ -11,4 +11,4 @@
 - 👟 [rdash](https://github.com/tuxrace/rdash) - a recreational lodash.
 
 ## Stack Overflow Reputation
-- 🔋 [Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
+- 🔋 [Gerard Banasig - Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
