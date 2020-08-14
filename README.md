@@ -9,3 +9,6 @@
 ## Personal Projects 
 - 📦 [rekeep](https://github.com/tuxrace/react-rekeep-app) - a state management using react hooks and context.
 - 👟 [rdash](https://github.com/tuxrace/rdash) - a recreational lodash.
+
+## Stack Overflow Reputation
+- 🔋 [Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
