@@ -1,6 +1,6 @@
 ## About me 👋
 
-- 🔭 I’m currently working on javascript mainly with react.
+- 🔭 I’m currently working on javascript mainly on react.
 - 🌱 I’m currently learning golang
 - 💬 Ask me about anything frontend or fullstack
 - 😄 Im highly motivated developer always looking out to make things better.
