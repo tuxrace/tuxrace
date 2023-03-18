@@ -13,11 +13,12 @@
 ## Stack Overflow Reputation
 - 🔋 [Gerard Banasig - Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
 
+
+## My Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxrace&hide_progress=true&show_icons=true&theme=radical&layout=compact)](https://github.com/tuxrace/github-readme-stats)
+
 ## My Contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuxrace)](https://git.io/streak-stats)
 
 ## My Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxrace&show_icons=true&theme=radical)](https://github.com/tuxrace/github-readme-stats)
-
-## My Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxrace&hide_progress=true&show_icons=true&theme=radical&layout=compact)](https://github.com/tuxrace/github-readme-stats)
