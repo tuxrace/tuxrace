@@ -18,3 +18,6 @@
 
 ## My Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxrace&show_icons=true&theme=radical)](https://github.com/tuxrace/github-readme-stats)
+
+## My Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxrace&hide_progress=true&show_icons=true&theme=radical)](https://github.com/tuxrace/github-readme-stats)
