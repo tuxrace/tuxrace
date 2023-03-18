@@ -17,4 +17,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuxrace)](https://git.io/streak-stats)
 
 ## My Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxrace)](https://github.com/tuxrace/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxrace&show_icons=true&theme=radical)](https://github.com/tuxrace/github-readme-stats)
