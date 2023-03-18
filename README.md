@@ -13,5 +13,8 @@
 ## Stack Overflow Reputation
 - 🔋 [Gerard Banasig - Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
 
-## My contributions
+## My Contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuxrace)](https://git.io/streak-stats)
+
+## My Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxrace)](https://github.com/tuxrace/github-readme-stats)
