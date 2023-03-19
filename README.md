@@ -1,6 +1,6 @@
 ## About me 👋
 
-- 🔭 I’m currently working on react native, javascript, react and typescript
+- 🔭 I’m currently working on react native, javascript, react and typescript projects
 - 🌱 I’m currently learning golang
 - 💬 Ask me about anything frontend or mobile or fullstack
 - 😄 Im highly motivated developer always looking out to make things better
