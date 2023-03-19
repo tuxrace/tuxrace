@@ -13,7 +13,6 @@
 ## Stack Overflow Reputation
 - 🔋 [Gerard Banasig - Stack overflow profile](https://stackoverflow.com/users/124919/gerard-banasig)
 
-
 ## Languages that I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxrace&hide_progress=true&show_icons=true&theme=radical&layout=compact)](https://github.com/tuxrace/github-readme-stats)
 
