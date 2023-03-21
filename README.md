@@ -5,7 +5,6 @@
 - 💬 Ask me about anything frontend or mobile or fullstack
 - 😄 Im highly motivated developer always looking out to make things better
 - ⚡ Fun fact: I like watching movies and listening to interesting music
-
 ## Personal Projects 
 - 👟 [rdash](https://github.com/tuxrace/rdash) - a recreational lodash.
 - 📦 [rekeep](https://github.com/tuxrace/react-rekeep-app) - a state management using react hooks and context.
