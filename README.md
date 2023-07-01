@@ -5,7 +5,7 @@
 - 😄 Im highly motivated developer always looking out to make things better
 - ⚡ Fun fact: I like watching movies and listening to interesting music
 ## Current Interest
-- AI Development (hype)
+- 🤖 AI Development (hype)
   
 ## Personal Projects 
 - 👟 [rdash](https://github.com/tuxrace/rdash) - a recreational lodash.
