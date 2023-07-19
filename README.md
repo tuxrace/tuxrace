@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on react native, javascript, react and typescript projects
 - 💬 Ask me about anything frontend or mobile or fullstack
 - 😄 Im highly motivated developer always looking out to make things better
-- ⚡ Fun fact: I like watching movies and listening to interesting music
+- ⚡ Fun fact: I love learning foreign languages also watching movies and listening to interesting music
 ## Current Interest
 - 🤖 AI Development (hype)
   
